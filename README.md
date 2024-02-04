@@ -1,5 +1,5 @@
 ## Olá!
-- 📘 Estudando HTML, CSS E JS
+- 📘 Estudando HTML, CSS e JS
 - 🇻🇦 Católico Apostólico Romano
 ##
 
